@@ -27,7 +27,6 @@ This Windows Forms application allows you to combine a PDF file with an XML file
 
 3. **Install the required NuGet packages**:
     - `iText7`
-    - `itext7.pdfa`
     - `itext7.bouncy-castle-adapter`
     - `BouncyCastle.NetCore`
 
