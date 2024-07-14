@@ -33,7 +33,6 @@ This Windows Forms application allows you to combine a PDF file with an XML file
     You can install these packages using the NuGet Package Manager or the Package Manager Console:
     ```sh
     Install-Package iText7
-    Install-Package itext7.pdfa
     Install-Package itext7.bouncy-castle-adapter
     Install-Package BouncyCastle.NetCore
     ```
